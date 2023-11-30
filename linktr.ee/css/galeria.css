@@ -38,7 +38,8 @@ body {
 .colum2,
 .galeria-content4,
 .galeria-content5,
-.galeria-content6 {
+.galeria-content6,
+.galeria-content7 {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -134,7 +135,8 @@ footer p:hover {
     .colum2,
     .galeria-content4,
     .galeria-content5,
-    .galeria-content6 {
+    .galeria-content6,
+    .galeria-content7 {
         width: 100%;
         display: flex;
         flex-direction: column;
